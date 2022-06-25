@@ -3,6 +3,7 @@
 ESCUELA DE INGENIERÍA DE SISTEMAS E INFORMATICA: INGENIERÍA DE SISTEMAS
 #### 22958 - AUTOMATAS Y LENGUAJES FORMALES
 
+##### Carlos Daniel Peñaloza Torres - 2172336
 
 En cada uno de los casos escriba en un notebook, preferiblemente de google colab, un programa que reciba como
 entradas un número natural **n** y, posteriormente, n palabras del lenguaje **Σ∗** y para cada una de ellas diga si la
